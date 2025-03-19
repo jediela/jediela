@@ -5,7 +5,7 @@
 - 💼 Previous @ RBC & MTO
 
 # 💻 Tech Stack
-[![Tech Stack:](https://skillicons.dev/icons?i=fastapi,nextjs,docker,react,angular,nodejs,ts,js,tailwind,java,svelte,spring,linux,npm,latex,py,html,css,githubactions,c,gcp,sqlite,postgres&perline=12)](https://skillicons.dev)
+[![Tech Stack:](https://skillicons.dev/icons?i=fastapi,nextjs,docker,react,angular,nodejs,ts,js,tailwind,java,svelte,spring,linux,npm,flask,latex,py,html,css,githubactions,c,gcp,sqlite,postgres&perline=12)](https://skillicons.dev)
 
 # 🔗 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jediel-antalan/)
