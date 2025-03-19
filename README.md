@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Jed
 
 - 📚 Currently studying CS @ the University of Toronto
-- 💫 An aspiring Software Engineer
+- 💫 Aspiring Software Engineer
 - 💼 Previous @ RBC & MTO
 
 # 💻 Tech Stack
