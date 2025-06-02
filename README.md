@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Jed
 
+## DevOps Engineer @ RBC GAM | CS @ University of Toronto | Prev @MTO
+
 - 📚 Currently studying CS @ the University of Toronto
 - 💫 Aspiring Software Engineer
-- 💼 Previous @ RBC & MTO
 
 # 💻 Tech Stack
 [![Tech Stack:](https://skillicons.dev/icons?i=fastapi,nextjs,docker,react,angular,nodejs,ts,js,tailwind,java,svelte,spring,linux,npm,flask,latex,py,html,css,githubactions,c,gcp,sqlite,postgres&perline=12)](https://skillicons.dev)
