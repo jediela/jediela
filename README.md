@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jed
 
-## DevOps Engineer @ RBC GAM | CS @ University of Toronto | Prev @MTO
+### DevOps Engineer @ RBC GAM | CS @ University of Toronto | Prev @MTO
 
 - 📚 Currently studying CS @ the University of Toronto
 - 💫 Aspiring Software Engineer
