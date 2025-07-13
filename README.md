@@ -6,7 +6,12 @@
 - 💫 Aspiring Software Engineer
 
 # 💻 Tech Stack
-[![Tech Stack:](https://skillicons.dev/icons?i=fastapi,nextjs,docker,react,angular,nodejs,ts,js,tailwind,java,svelte,spring,linux,npm,flask,latex,py,html,css,githubactions,c,gcp,sqlite,postgres&perline=12)](https://skillicons.dev)
+
+
+| 📝 **Languages** | 🧱 **Frameworks & Libraries** | 🧰 **DevOps & Tools** | 🗄️ **Databases** |
+|---|---|---|---|
+[![py](https://skillicons.dev/icons?i=py)](https://skillicons.dev)  [![java](https://skillicons.dev/icons?i=java)](https://skillicons.dev) [![ts](https://skillicons.dev/icons?i=ts)](https://skillicons.dev) [![js](https://skillicons.dev/icons?i=js)](https://skillicons.dev) [![html](https://skillicons.dev/icons?i=html)](https://skillicons.dev) [![css](https://skillicons.dev/icons?i=css)](https://skillicons.dev) [![c](https://skillicons.dev/icons?i=c)](https://skillicons.dev) | [![fastapi](https://skillicons.dev/icons?i=fastapi)](https://skillicons.dev) [![flask](https://skillicons.dev/icons?i=flask)](https://skillicons.dev) [![spring](https://skillicons.dev/icons?i=spring)](https://skillicons.dev) [![nodejs](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev) [![react](https://skillicons.dev/icons?i=react)](https://skillicons.dev) [![nextjs](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev) [![angular](https://skillicons.dev/icons?i=angular)](https://skillicons.dev) [![svelte](https://skillicons.dev/icons?i=svelte)](https://skillicons.dev) [![tailwind](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev) | [![docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev) [![githubactions](https://skillicons.dev/icons?i=githubactions)](https://skillicons.dev) [![gcp](https://skillicons.dev/icons?i=gcp)](https://skillicons.dev) [![linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev) [![npm](https://skillicons.dev/icons?i=npm)](https://skillicons.dev) [![kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://skillicons.dev) [![latex](https://skillicons.dev/icons?i=latex)](https://skillicons.dev) | [![postgres](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev) [![sqlite](https://skillicons.dev/icons?i=sqlite)](https://skillicons.dev) |
+
 
 # 🔗 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jediel-antalan/)
